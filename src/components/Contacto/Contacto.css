@@ -1,0 +1,17 @@
+.contacto {
+    padding: 2rem;
+    background-color: #edf6f9;
+    color: #006d77;
+  }
+  
+  .contact-form input,
+  .contact-form textarea,
+  .contact-form button {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #83c5be;
+    border-radius: 4px;
+  }
+  
+
+  
